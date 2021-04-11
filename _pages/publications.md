@@ -8,7 +8,7 @@ author_profile: true
 ---
 ---
 
-<font size="6" color="orange">Conference Papers</font>
+<font size="5" color="orange">Conference Papers</font>
 <br/> 
 
 <b>[GOSMatch: Graph-of-Semantics Matching for Detecting Loop Closuresin 3D LiDAR data](https://zhuyachen.github.io/_publications/GOSMatch)</b><br>
