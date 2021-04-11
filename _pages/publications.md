@@ -4,13 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<font size="6" color="orange">Conference Papers</font>
+<br/> 
 
-{% include base_path %}
+<b>[GOSMatch: Graph-of-Semantics Matching for Detecting Loop Closuresin 3D LiDAR data](https://zhuyachen.github.io/publications/GOSMatch)</b><br>
+<b>Yachen Zhu</b>, Yanyang Ma, Long Chen, Cong Liu, Maosheng Ye and Lingxi Li.<br>
+<i> IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS),2020 </i>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+---
