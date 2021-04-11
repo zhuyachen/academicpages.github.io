@@ -2,6 +2,7 @@
 title: "GOSMatch:  Graph-of-Semantics  Matching  for  Detecting  Loop  Closuresin  3D  LiDAR  data"
 collection: publications
 permalink: /publication/GOSMatch
+data: 2020-10-25
 
 citation: '<b>Yachen Zhu</b>, Yanyang Ma, Long Chen, Cong Liu, Maosheng Ye and Lingxi Li.  <i>IROS 2020.</i>'
 ---
