@@ -2,11 +2,12 @@
 title: "GOSMatch:  Graph-of-Semantics  Matching  for  Detecting  Loop  Closuresin  3D  LiDAR  data"
 collection: publications
 permalink: /publication/GOSMatch
-date: 2020-10-25
-venue: 'Journal 1'
-citation: '<b>Yachen Zhu</b>, Yanyang Ma, Long Chen, Cong Liu, Maosheng Ye and Lingxi Li &quot;Paper Title Number 1.&quot; <i>IROS 2020.</i>'
+
+Authors: '<b>Yachen Zhu</b>, Yanyang Ma, Long Chen, Cong Liu, Maosheng Ye and Lingxi Li &quot;Paper Title Number 1.&quot; <i>IROS 2020.</i>'
 ---
-Recommanded citation:
+
+
+
 [[paper]](https://zhuyachen.github.io/files/0619.pdf)
 [[talk_video]](https://zhuyachen.github.io/files/IROS20_Attachment_619_PV.mp4)
 [[code]](https://github.com/zhuyachen/GOSMatch)
