@@ -80,8 +80,8 @@ analytics:
 # Site Author
 author:
   name             : "Yachen Zhu"
-  avatar           : "bio-photo.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.png"
+  bio              : "A postgraduate student at the Institute of Unmanned Systems, Sun Yat-sen University."
   location         : "Beijing, China"
   employer         :
   pubmed           :  
