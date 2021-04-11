@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yachen Zhu (朱亚琛)"
 title_separator          : "-"
 name                     : &name "Yachen Zhu"
-description              : &description "personal description"
+description              : &description "postgraduate student, SYSU"
 url                      : https://zhuyachen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhuyachen/zhuyachen.github.io"
