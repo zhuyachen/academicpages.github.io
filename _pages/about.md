@@ -16,7 +16,7 @@ Now I am working as a HD-map engineer in Waytous, A technology company focusing 
 &nbsp;
     
 
-Profiles: [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=HEjanOwAAAAJ)  |  [Github](www.github.com/zhuyachen)
+
 ## Research Interests
 
 - SLAM  
