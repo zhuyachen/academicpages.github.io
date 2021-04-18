@@ -9,7 +9,7 @@ citation: '<b>Yachen Zhu</b>  <i>MSc thesis.</i>'
 
 
 
-[[paper]](https://zhuyachen.github.io/files/18214872朱亚琛.pdf)
+[[paper]](https://zhuyachen.github.io/files/18214872.pdf)
 
 
 ## Abstract
