@@ -1,5 +1,5 @@
 ---
-title: "GOSMatch:  Graph-of-Semantics  Matching  for  Detecting  Loop  Closuresin  3D  LiDAR  data"
+title: "GOSMatch:  Graph-of-Semantics  Matching  for  Detecting  Loop  Closures  in  3D  LiDAR  data"
 collection: publications
 permalink: /publication/GOSMatch
 data: 2020-10-25
